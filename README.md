@@ -1,14 +1,4 @@
-Good. The problem isn’t content.
 
-The problem is formatting.
-Right now it looks like plain text, not Markdown.
-
-I’ll clean it properly with correct headings, spacing, and bullet structure so GitHub renders it professionally.
-
-Copy this exactly:
-
-
----
 
 Operating System Scheduling and Memory Management Simulator (C++)
 
